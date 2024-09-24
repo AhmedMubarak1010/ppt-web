@@ -361,7 +361,7 @@ select {
   }
 }
 /* responsive layout contact */
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 768px) {
   .column,
   input[type="submit"] {
     width: 100%;
