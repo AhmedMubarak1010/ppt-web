@@ -361,7 +361,7 @@ select {
   }
 }
 /* responsive layout contact */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900x) {
   .column,
   input[type="submit"] {
     width: 100%;
@@ -621,7 +621,7 @@ select {
   color: #ffffff;
   backdrop-filter: blur;
 }
-@media screen and (min-width: 731px) {
+@media screen and (min-width: 950px) {
   .toggle-btn {
     display: none;
   }
